@@ -123,7 +123,7 @@ class Main {
             for (int j = 0; j < grades.length; j++) {
                 average += grades[j][i];
             }
-            average /= 3;
+            average /= 5;
 
             System.out.println("   Subject" + " " + (i+1) + ": " + average + " In average.");
 
