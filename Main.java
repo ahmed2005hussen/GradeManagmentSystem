@@ -1,5 +1,3 @@
-import javax.swing.plaf.IconUIResource;
-import java.util.Locale;
 import java.util.Scanner;
 
 class Main {
